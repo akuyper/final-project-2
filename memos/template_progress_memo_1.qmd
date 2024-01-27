@@ -2,7 +2,7 @@
 title: "Progress Memo 1"
 subtitle: |
   | Final Project 
-  | Data Science 1 with R (STAT 301-1)
+  | Data Science 2 with R (STAT 301-2)
 author: "YOUR NAME"
 date: today
 
@@ -16,14 +16,16 @@ execute:
   warning: false
 
 from: markdown+emoji 
+reference-location: margin
+citation-location: margin
 ---
 
 ::: {.callout-important}
 ## Memo format
 
-Like all other submissions for this course, we expect the memo to be neat and well organized.
+Like all other submissions for this course, we expect the memo to be neat and well organized. This a template to get you started. 
 
-You should make this document your own. This is a template. To help with this we have added a date to the yaml above (good whenever writing memos). You should remove this block when making this document your own.
+You should make this document your own. To help with this we have added a date to the yaml above (good whenever writing memos). You should remove this block when making this document your own.
 
 :::
 
@@ -45,7 +47,7 @@ GitHub (free account) cannot store large files. If you try to commit and push a 
 
 ## Data source
 
-Blah blah blah^[where blah blah came from, an example of footnote]
+Blah blah blah^[an example of footnote --- [content in margins](https://quarto.org/docs/blog/posts/2022-02-17-advanced-layout/)]
 
 ## Why this data
 
